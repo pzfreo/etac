@@ -14,7 +14,7 @@ brainstorming tool when trying to understand emerging technologies.*
 Introduction
 ============
 
-This paper introduces the "Emerging Technology Analysis Canvas"(ETAC), a
+This paper introduces the "Emerging Technology Analysis Canvas" (ETAC), a
 framework to assess an individual emerging technology. Many
 technological organisations have a desire to evaluate emerging
 technologies, either for their own Research and Development teams
